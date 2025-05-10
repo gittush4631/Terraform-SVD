@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"configmap","Source":"./configmap","Dir":"configmap"},{"Key":"deployment","Source":"./deployment","Dir":"deployment"},{"Key":"pvc","Source":"./pvc","Dir":"pvc"},{"Key":"role","Source":"./role","Dir":"role"},{"Key":"secret","Source":"./secret","Dir":"secret"},{"Key":"service","Source":"./service","Dir":"service"}]}
